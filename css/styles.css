@@ -11,7 +11,7 @@
 }
 
 body {
-	background-color: #FBF9F1;
+	background-color: #f7f6f3;
 }
 
 h1 {
@@ -25,7 +25,7 @@ h1 {
 
 p {
 	font-family: Graphik;
-	font-size: 2rem;
+	font-size: 1.8rem;
 	font-weight: Regular;
 	color: #5F5F62;
 	letter-spacing: 0.08rem;
@@ -34,7 +34,7 @@ p {
 
 a {
 	font-family: Graphik;
-	font-size: 1.7rem;
+	font-size: 1.8rem;
 	font-weight: Light;
 	color: #5F5F62;
 	letter-spacing: 0.08rem;
